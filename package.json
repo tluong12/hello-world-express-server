@@ -4,12 +4,11 @@
   "description": "demo for example",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git clone https://github.com/tluong12/hello-world-express-server.git"
+    "url": " https://github.com/tluong12/hello-world-express-server.git"
   },
   "author": "DL",
   "license": "ISC",
