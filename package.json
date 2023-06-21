@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-express-server",
+  "version": "1.0.0",
+  "description": "demo for example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://github.com/tluong12/hello-world-express-server.git"
+  },
+  "author": "DL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
